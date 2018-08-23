@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-fun",
+  "version": "1.0.0",
+  "description": "Messing arround with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel416/puppeteer-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel416/puppeteer-fun/issues"
+  },
+  "homepage": "https://github.com/Gabriel416/puppeteer-fun#readme",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "puppeteer": "^1.7.0"
+  }
+}
